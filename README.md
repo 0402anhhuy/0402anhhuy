@@ -41,6 +41,4 @@
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0402anhhuy&" alt="0402anhhuy" />
-</p>
+![Trần Anh Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=0402anhhuy&show_icons=true&theme=dracula)
