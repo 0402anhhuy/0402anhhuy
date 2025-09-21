@@ -40,3 +40,4 @@
 </p>
 
 ![Trần Anh Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=0402anhhuy&show_icons=true&theme=dracula)
+![Trần Anh Huy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0402anhhuy&theme=dracula&hide_border=false&include_all_commits=dalse&count_private=true&layout=compact)
