@@ -5,7 +5,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-
+## Portfolio
+[![Portfolio](https://img.shields.io/badge/Check_Out-My_Portfolio-6dd5ed?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://trananhhuy-portfolio.vercel.app/)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/TranAnhHuy0402) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anh-huy-tr%E1%BA%A7n-87342539a/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@PianoAndCode) 
 
